@@ -1,4 +1,3 @@
-// Question of the Day 04/01 -  Find Pivot Index
 /*
 Given an array of integers nums, calculate the pivot index of this array.
 
@@ -41,9 +40,3 @@ var pivotIndex = function(nums) {
     // caso não encontre a condição retorna -1 como diz no enunciado
         return -1
     }
-
-
-// Question of the Day 05/01
-
-
-// Question of the Day 06/01
